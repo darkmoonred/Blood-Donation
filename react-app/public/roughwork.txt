@@ -1,0 +1,18 @@
+App Structure
+-------------
+
+src - actions
+
+
+
+
+
+
+
+redux, react-redux, redux-thunk
+
+actions - create, update, delete etc, data
+reducers
+store
+
+cpnt -> dispatch(action) -> reducer -> cmpnt
